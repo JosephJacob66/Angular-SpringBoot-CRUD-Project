@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "pecunia"
+  "defaultProject": "pecunia",
+  "cli": {
+    "analytics": false
+  }
 }
